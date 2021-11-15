@@ -10,7 +10,7 @@ build-all:
 	pnpm -r run build
 
 build-clean:
-	find . -type d -name 'esm' | xargs rm -rf '{}'
+	find . -type d -name 'esm' | xargs rm -rf
 
 install-linux:
 	pnpm run --filter install-linux task
