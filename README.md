@@ -8,7 +8,7 @@
 make # make install
 ```
 
-## build all package
+## build all scripts
 
 ```bash
 make build-all
