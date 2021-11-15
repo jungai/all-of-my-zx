@@ -1,0 +1,14 @@
+{
+  "name": "all-of-my-zx",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jungai/all-of-my-zx.git"
+  },
+  "author": "jungai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jungai/all-of-my-zx/issues"
+  },
+  "homepage": "https://github.com/jungai/all-of-my-zx#readme"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "install-linux",
+  "version": "1.0.0",
+  "main": "esm/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p ./tsconfig.json",
+    "task": "zx ./esm/index.js"
+  },
+  "author": "jungai",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^16.11.7",
+    "typescript": "^4.4.4",
+    "zx": "^4.2.0"
+  }
+}
