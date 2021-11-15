@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "build": "tsc -p ./tsconfig.json",
-    "task": "zx ./esm/index.js"
+    "task": "zx ./esm/index.js",
+    "ts": "zx ./src/index.ts"
   },
   "author": "jungai",
   "license": "ISC",
