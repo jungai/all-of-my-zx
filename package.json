@@ -10,5 +10,9 @@
   "bugs": {
     "url": "https://github.com/jungai/all-of-my-zx/issues"
   },
-  "homepage": "https://github.com/jungai/all-of-my-zx#readme"
+  "homepage": "https://github.com/jungai/all-of-my-zx#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "zx": "^4.2.0"
+  }
 }

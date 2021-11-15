@@ -3,15 +3,10 @@ lockfileVersion: 5.3
 importers:
 
   .:
-    specifiers: {}
-
-  scripts/install-linux:
     specifiers:
-      '@types/node': ^16.11.7
       typescript: ^4.4.4
       zx: ^4.2.0
     devDependencies:
-      '@types/node': 16.11.7
       typescript: 4.4.4
       zx: 4.2.0
 
