@@ -1,0 +1,13 @@
+{
+  "name": "docker_deploy_on_vps",
+  "author": "jungai",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc -p ./tsconfig.json",
+    "task": "zx ./dist/index.js",
+    "ts": "zx ./src/index.ts"
+  },
+  "license": "ISC"
+}
