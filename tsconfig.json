@@ -2,12 +2,12 @@
   "compilerOptions": {
     "target": "esnext",
     "module": "esnext",
-    "rootDir": "./src",
     "moduleResolution": "node",
-    "outDir": "./dist",
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
     "strict": true,
+    "rootDir": "./scripts",
+    "outDir": "dist"
   },
-  "include": ["./src/**/*.ts"]
+  "include": ["./scripts/**/*.ts"]
 }
