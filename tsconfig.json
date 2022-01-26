@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
     "target": "esnext",
-    "module": "esnext",
+    "module": "es6",
     "moduleResolution": "node",
     "allowSyntheticDefaultImports": true,
     "esModuleInterop": true,
@@ -9,5 +9,7 @@
     "rootDir": "./scripts",
     "outDir": "dist"
   },
-  "include": ["./scripts/**/*.ts"]
+  "include": [
+    "./scripts/**/*.ts"
+  ]
 }
