@@ -1,7 +1,5 @@
 #!/usr/bin/env zx
 
-import "zx/globals";
-
 const pushTagArgs = {
   v: {
     alias: "version",
