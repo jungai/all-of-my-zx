@@ -1,5 +1,5 @@
 #!/usr/bin/env zx
-import { $, chalk, os } from "zx";
+import "zx/globals";
 
 void (async () => {
   // path
